@@ -9,6 +9,7 @@
 
 ## Data
 The data for this project is stored in `data/.` The raw data files are `data/MTA_Subway_Origin-Destination_Ridership_Estimate__2024_20241008.csv` and `data/MTA_Subway_Stations_updated.csv`, and the processed data files that keeps only the useful columns for the project are `data/ridership.csv` and `data/stations.csv` respectively.
+
 `.gitattributes` is for Git LFS to manage and allow the submission of large data files (i.e. `data/MTA_Subway_Origin-Destination_Ridership_Estimate__2024_20241008.csv` & `data/ridership.csv`)
 
 ## Dependencies
